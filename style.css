@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffeef8;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #fff0f6;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #000;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+section {
+    padding: 30px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    color: #ff69b4;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 8px 0;
+    font-size: 1.1rem;
+}
+
+.contact a {
+    color: #000;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff0f6;
+    margin-top: 40px;
+}
